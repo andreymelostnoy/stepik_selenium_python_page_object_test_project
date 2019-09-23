@@ -5,6 +5,8 @@ class BasePageLocators:
     LOGIN_LINK = (By.CSS_SELECTOR, "#login_link")
     LOGIN_LINK_INVALID = (By.CSS_SELECTOR, "#login_link_inc")
     VIEW_BASKET_BUTTON = (By.LINK_TEXT, "View basket")
+    USER_ICON = (By.CSS_SELECTOR, ".icon-user")
+    REGISTRATION_SUCCESS_MESSAGE = (By.CSS_SELECTOR, ".alert-success .alertinner")
 
 
 class MainPageLocators:
