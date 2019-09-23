@@ -1,1 +1,2 @@
-# stepik_selenium_python_page_object_test_project
+# Тестовое задание к курсе Автоматизация тестирования с помощью Selenium и Python
+https://stepik.org/course/575/syllabus
