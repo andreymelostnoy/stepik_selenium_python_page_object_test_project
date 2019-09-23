@@ -17,6 +17,7 @@ class LoginPageLocators:
     REGISTRATION_EMAIL = (By.CSS_SELECTOR, "#id_registration-email")
     REGISTRATION_PASSWORD = (By.CSS_SELECTOR, "#id_registration-password1")
     REGISTRATION_CONFIRM_PASSWORD = (By.CSS_SELECTOR, "#id_registration-password2")
+    REGISTRATION_BUTTON = (By.CSS_SELECTOR, "[name=registration_submit]")
 
 
 class ProductPageLocators:
